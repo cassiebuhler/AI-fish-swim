@@ -11,10 +11,10 @@ We investigate how neural networks can be used to predict a fish’s thrust and 
 - **analysis.ipynb:** Exploratory data analysis and develops/trains/tests 3 shallow artificial neural networks. 
 
 #### Data
-- **Data/fishdata.xlsx:** Simulated data
+- **data/fishdata.xlsx:** Simulated data
 
 #### Other
-- **Figures:** Folder containing the figures used in the report
+- **figures:** Folder containing the figures used in the report
 - **paper.pdf:** Final report 
 
 Authors: Cassidy Buhler and Shraman Kadapa
